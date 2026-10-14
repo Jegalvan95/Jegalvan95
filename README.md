@@ -14,7 +14,7 @@ El proyecto utiliza HTML, CSS, JavaScript, una API serverless en TypeScript y Su
 
 **Estado:** en desarrollo, con validaciones pendientes antes de producción.
 
-[Ver caso de estudio](docs/loyal-pass.md)
+[Ver caso de estudio](https://github.com/Jegalvan95/loyal-pass-case-study)
 
 ### ZendaFit
 
