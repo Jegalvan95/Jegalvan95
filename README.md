@@ -10,9 +10,16 @@ Mi enfoque está en el desarrollo web y la aplicación de inteligencia artificia
 
 Sistema de tarjetas de lealtad digitales para múltiples negocios, con registro de clientes, consulta mediante QR o código manual y gestión de visitas y recompensas.
 
-El proyecto utiliza HTML, CSS, JavaScript, una API serverless en TypeScript y Supabase/PostgreSQL. Incluye migraciones y pruebas con Vitest.
+**Avances de la versión 1.4.0:**
 
-**Estado:** en desarrollo, con validaciones pendientes antes de producción.
+- Panel de administración global para crear y configurar negocios.
+- Gestión de empleados, permisos, estado activo y restablecimiento de PIN.
+- Historial de visitas y canjes por negocio, con filtros por fecha, encargado y operación.
+- Control de acceso por rol y auditoría de cambios administrativos.
+
+**Tecnologías:** HTML, CSS, JavaScript, API serverless en TypeScript, Supabase/PostgreSQL, migraciones SQL y pruebas con Vitest.
+
+**Estado:** versión 1.4.0 en desarrollo. La documentación reporta validación local del panel y los permisos; continúan pendientes comprobaciones antes de producción, notificaciones e integraciones Wallet.
 
 [Ver caso de estudio](https://github.com/Jegalvan95/loyal-pass-case-study)
 
