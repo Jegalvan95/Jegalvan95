@@ -25,11 +25,29 @@ Sistema de tarjetas de lealtad digitales para múltiples negocios, con registro 
 
 ### ZendaFit
 
-Proyecto formativo de asistente conversacional en español para actividad física y nutrición, realizado durante el diplomado de inteligencia artificial aplicada.
+Plataforma web para que entrenadores y nutricionistas independientes administren clientes, preparen planes y revisen su progreso.
 
-**Origen:** académico. Su incorporación a CROS DEV está prevista para una etapa futura.
+- Fichas por cliente, notas privadas y agenda de revisiones.
+- Rutinas y planes alimenticios en texto o con editores estructurados.
+- Borradores, publicación explícita, versiones y plantillas reutilizables.
+- Registro de medidas, gráfica de progreso y permisos comprobados en el servidor.
+- Asistente con contexto acotado e historial, preparado para conectar un proveedor de IA.
 
-El repositorio privado contiene actualmente documentación; no hay una implementación ejecutable publicada.
+**Tecnologías:** React, TypeScript, Vite, Fastify, PGlite para persistencia local, migraciones SQL y Vitest.
+
+**Origen y estado:** proyecto académico en evolución hacia un producto comercial. Versión 0.2.0 en desarrollo, con aplicación local ejecutable y código privado. La última validación documentada registra 72 pruebas aprobadas en 10 archivos. El acceso web con cuentas reales, el proveedor de IA y el despliegue comercial siguen pendientes.
+
+### Reserva Norte
+
+Sitio web de catálogo para una propuesta de marca de carnes premium en Durango, con identidad visual propia e interacciones en JavaScript nativo.
+
+- Navegación adaptable a móvil, filtros de catálogo y fichas en diálogo.
+- Selección de cortes sin duplicados y preparación de consultas descargables con fecha.
+- Navegación por teclado, foco visible y controles para pausar animaciones y respetar movimiento reducido.
+
+**Tecnologías:** HTML semántico, CSS, JavaScript y SVG, sin dependencias de terceros.
+
+**Estado:** prototipo estático con código privado. Las consultas se preparan y descargan localmente; no se envían ni se procesan pagos. El catálogo, las imágenes conceptuales generadas con IA y los datos comerciales requieren validación antes de su uso comercial.
 
 ## Formación
 
