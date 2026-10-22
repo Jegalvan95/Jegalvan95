@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280" role="img" aria-labelledby="title desc">
+  <title id="title">Jesús Ernesto Galván Valdez — Inteligencia artificial, ciencia de datos y desarrollo de software</title>
+  <desc id="desc">Encabezado del portafolio profesional con fondo azul oscuro y líneas geométricas.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0c172b"/><stop offset="1" stop-color="#132e46"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#52d7c3"/><stop offset="1" stop-color="#7ea9ff"/></linearGradient>
+  </defs>
+  <rect width="1280" height="280" rx="20" fill="url(#bg)"/>
+  <g fill="none" stroke="#6aa1bb" stroke-opacity=".18">
+    <path d="M930 0v280M1010 0v280M1090 0v280M1170 0v280M1250 0v280M890 60h390M890 140h390M890 220h390"/>
+    <circle cx="1110" cy="140" r="84"/><circle cx="1110" cy="140" r="112"/>
+    <path d="m1026 140 84-84 84 84-84 84z"/>
+  </g>
+  <g fill="#52d7c3"><circle cx="1110" cy="56" r="5"/><circle cx="1194" cy="140" r="5"/><circle cx="1110" cy="224" r="5"/></g>
+  <rect x="56" y="54" width="56" height="4" rx="2" fill="url(#accent)"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="56" y="103" fill="#8fc6d5" font-size="14" letter-spacing="3">PORTAFOLIO PROFESIONAL</text>
+    <text x="56" y="160" fill="#f3f7fc" font-size="39" font-weight="700">Jesús Ernesto Galván Valdez</text>
+    <text x="56" y="203" fill="#c4d3e1" font-size="21">Inteligencia artificial · Ciencia de datos · Desarrollo de software</text>
+    <text x="56" y="240" fill="#91a9bd" font-size="15">Durango, México</text>
+  </g>
+</svg>
