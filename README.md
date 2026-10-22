@@ -1,55 +1,52 @@
+![Portafolio profesional de Jesús Ernesto Galván Valdez](https://raw.githubusercontent.com/Jegalvan95/Jegalvan95/main/assets/profile-header.svg)
+
 # Jesús Ernesto Galván Valdez
 
-**Desarrollo de software e inteligencia artificial aplicada**
+**Ingeniero en Inteligencia Artificial · Especialidad en Ciencia de Datos**
 
-Mi enfoque está en el desarrollo web y la aplicación de inteligencia artificial a problemas concretos.
+Desarrollo aplicaciones web y soluciones digitales, con enfoque en inteligencia artificial aplicada. Mi portafolio reúne plataformas de gestión, herramientas para profesionales y sitios web con interfaces adaptables a móvil.
 
-## Proyectos
+[Proyectos en desarrollo](#proyectos-en-desarrollo) · [Sitios web](#sitios-web) · [Tecnologías](#tecnologías-en-los-proyectos) · [Formación](#formación-académica)
 
-### Loyal_Pass
+## Proyectos en desarrollo
 
-Sistema de tarjetas de lealtad digitales para múltiples negocios, con registro de clientes, consulta mediante QR o código manual y gestión de visitas y recompensas.
+| Proyecto | Qué resuelve | Estado | Conocer el proyecto |
+| --- | --- | --- | --- |
+| **Loyal Pass** | Gestión de programas de lealtad para múltiples negocios: clientes, visitas, recompensas y administración. | v1.4.0 · En desarrollo | [Caso de estudio](https://github.com/Jegalvan95/loyal-pass-case-study) |
+| **ZendaFit** | Gestión de clientes, planes de entrenamiento y alimentación, y seguimiento para profesionales independientes. | v0.2.0 · Aplicación local ejecutable | [Ficha del proyecto](https://github.com/Jegalvan95/Jegalvan95/blob/main/docs/zendafit.md) |
 
-**Avances de la versión 1.4.0:**
+**Loyal Pass** incluye identificación por QR o código manual, administración global, permisos por rol e historial de operaciones.
 
-- Panel de administración global para crear y configurar negocios.
-- Gestión de empleados, permisos, estado activo y restablecimiento de PIN.
-- Historial de visitas y canjes por negocio, con filtros por fecha, encargado y operación.
-- Control de acceso por rol y auditoría de cambios administrativos.
+**ZendaFit** incorpora fichas de clientes, planes con versiones, plantillas y seguimiento de progreso. Tiene origen académico y evoluciona hacia un producto comercial; la integración con un proveedor de IA sigue pendiente.
 
-**Tecnologías:** HTML, CSS, JavaScript, API serverless en TypeScript, Supabase/PostgreSQL, migraciones SQL y pruebas con Vitest.
+## Sitios web
 
-**Estado:** versión 1.4.0 en desarrollo. La documentación reporta validación local del panel y los permisos; continúan pendientes comprobaciones antes de producción, notificaciones e integraciones Wallet.
+| Sitio | Trabajo desarrollado | Estado | Ver el trabajo |
+| --- | --- | --- | --- |
+| **CROS DEV** | Landing corporativa y portafolio, navegación móvil, presentación de servicios y preparación local de solicitudes. | Implementación local | [Ficha del sitio](https://github.com/Jegalvan95/Jegalvan95/blob/main/docs/cros-dev.md) |
+| **Reserva Norte** | Catálogo interactivo, filtros, fichas de productos, selección de cortes y consultas descargables. | Prototipo estático | [Ficha del sitio](https://github.com/Jegalvan95/Jegalvan95/blob/main/docs/reserva-norte.md) |
 
-[Ver caso de estudio](https://github.com/Jegalvan95/loyal-pass-case-study)
+Las fichas y el caso de estudio son públicos. Los repositorios de código permanecen privados. Estas presentaciones documentan el trabajo disponible; las demos navegables en línea aún están pendientes de publicación.
 
-### ZendaFit
+## Tecnologías en los proyectos
 
-Plataforma web para que entrenadores y nutricionistas independientes administren clientes, preparen planes y revisen su progreso.
+| Área | Herramientas |
+| --- | --- |
+| Frontend | React, TypeScript, JavaScript, HTML, CSS, Vite y SVG |
+| Backend | Node.js, Fastify y API serverless para Vercel |
+| Datos | SQL, PostgreSQL, Supabase y PGlite para desarrollo local |
+| Calidad y versiones | Vitest, migraciones SQL y Git/GitHub |
 
-- Fichas por cliente, notas privadas y agenda de revisiones.
-- Rutinas y planes alimenticios en texto o con editores estructurados.
-- Borradores, publicación explícita, versiones y plantillas reutilizables.
-- Registro de medidas, gráfica de progreso y permisos comprobados en el servidor.
-- Asistente con contexto acotado e historial, preparado para conectar un proveedor de IA.
+## Formación académica
 
-**Tecnologías:** React, TypeScript, Vite, Fastify, PGlite para persistencia local, migraciones SQL y Vitest.
+| Formación | Institución | Periodo |
+| --- | --- | --- |
+| **Ingeniería en Inteligencia Artificial** | Universidad Panamericana, Aguascalientes | 2019–2023 |
+| **Especialidad en Ciencia de Datos** | Universidad Panamericana, Guadalajara | 2023–2024 |
+| **Diplomado Internacional en Inteligencia Artificial Aplicada** · 180 horas | Universidad España (UNES) | 2025 |
 
-**Origen y estado:** proyecto académico en evolución hacia un producto comercial. Versión 0.2.0 en desarrollo, con aplicación local ejecutable y código privado. La última validación documentada registra 72 pruebas aprobadas en 10 archivos. El acceso web con cuentas reales, el proveedor de IA y el despliegue comercial siguen pendientes.
+**Formación complementaria:** cursos de productividad con Copilot 365 y contenidos introductorios de AI-900 Azure Fundamentals, AI Para Todos México (2025).
 
-### Reserva Norte
+---
 
-Sitio web de catálogo para una propuesta de marca de carnes premium en Durango, con identidad visual propia e interacciones en JavaScript nativo.
-
-- Navegación adaptable a móvil, filtros de catálogo y fichas en diálogo.
-- Selección de cortes sin duplicados y preparación de consultas descargables con fecha.
-- Navegación por teclado, foco visible y controles para pausar animaciones y respetar movimiento reducido.
-
-**Tecnologías:** HTML semántico, CSS, JavaScript y SVG, sin dependencias de terceros.
-
-**Estado:** prototipo estático con código privado. Las consultas se preparan y descargan localmente; no se envían ni se procesan pagos. El catálogo, las imágenes conceptuales generadas con IA y los datos comerciales requieren validación antes de su uso comercial.
-
-## Formación
-
-- Diplomado Internacional en Inteligencia Artificial Aplicada — Universidad España, 180 horas, 2025.
-- Formación complementaria en productividad con Copilot 365 y contenidos introductorios de AI-900 Azure Fundamentals — AI Para Todos México, 2025.
+**Durango, México** · [Perfil de GitHub](https://github.com/Jegalvan95)
