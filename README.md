@@ -1,4 +1,4 @@
-![Portafolio profesional de Jesús Ernesto Galván Valdez](https://raw.githubusercontent.com/Jegalvan95/Jegalvan95/main/assets/profile-header.svg)
+![Portafolio de Jesús Ernesto Galván Valdez](https://raw.githubusercontent.com/Jegalvan95/Jegalvan95/main/assets/profile-header.svg)
 
 # Jesús Ernesto Galván Valdez
 
